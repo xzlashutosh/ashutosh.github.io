@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in [Smart System Integrated Solutions]<https://ssi-master.eu/)>, [Aalto University](https://www.aalto.fi/) "|" [USN](usn.no) "|" [BME](https://www.bme.hu/?language=en) 2023-2025 (expected)
+* M.S. in [Smart System Integrated Solutions]<https://ssi-master.eu/>, [Aalto University](https://www.aalto.fi/) "|" [USN](usn.no) "|" [BME](https://www.bme.hu/?language=en) 2023-2025 (expected)
 * B.Tech. in Electronics and Communication Engineering, [IIITD&M, Kurnool](https://iiitk.ac.in/) 2017-2021
 
 Work experience
