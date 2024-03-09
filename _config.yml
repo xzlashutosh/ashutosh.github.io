@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Ashutosh Sharma"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ashutosh Sharma"
+description              : &description "SSIs Master's Student"
+url                      : https://xzlashutosh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xzlashutosh/xzlashutosh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,10 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "Masters student in SSIs"
   location         : "Norway"
+  employer         : "BME, Hungary"
   employer         : "USN, Norway"
+  employer         : "Aalto University, Finland"
+  employer         : "IIITD&M, Kurnool"
   URI              : "https://ssi-master.eu/"
   email            : "ashutosh.1.sharma@aalto.fi" 
 
@@ -47,16 +50,16 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : https://www.instagram.com/ashutoshsharma.9/
+  instagram        : ashutoshsharma.9
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/ashutoshsharma0909
+  linkedin         : ashutoshsharma0909
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,12 +67,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : https://www.youtube.com/channel/UCGqqEYtrCaiyjRMDjs52ZnQ
+  youtube          : @ashutoshsharma4769?si=olgddepey1LrPYjZ
   zhihu            : # URL
 
 
