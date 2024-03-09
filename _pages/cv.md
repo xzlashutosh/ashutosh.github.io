@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+_pages/Ashutosh_Sharma.pdf
+
 Education
 ======
 * M.S. in [Smart System Integrated Solutions]<https://ssi-master.eu/>, [Aalto University](https://www.aalto.fi/) "|" [USN](usn.no) "|" [BME](https://www.bme.hu/?language=en) 2023-2025 (expected)
