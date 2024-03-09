@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in [Smart System Integrated Solutions](https://ssi-master.eu/), [Aalto University](https://www.aalto.fi/) | [USN](usn.no) | [BME](https://www.bme.hu/?language=en) 2023-2025 (expected)
+* B.Tech. in Electronics and Communication Engineering, [IIITD&M, Kurnool](https://iiitk.ac.in/) 2017-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2021 - Apr 2022: Engineer
+  * Mindtree
+  * Project: Data Backup and Restore Software 
+      • Building Windows desktop applications as per the requirements using C++ and MFC.
+      • Developing macOS-based application using objective C.
+  * Manager: [Veda g m] (https://www.linkedin.com/in/veda-g-b72bb73b/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2020 – Sep 2020: Research Intern
+  * VLSI System Design
+  * Project: Design of a 10-Bit Potentiometric Digital to Analog Converter Using Open-Source Tools
+    • Designed a potentiometric digital to analog converter as per the specifications given by VSD Corporation using open-source EDA tools and osu180nm PDK.
+    • Gained expertise in utilizing tools such as eSim, ngSpice, and Magic.
+  * Supervisor: Mr. Kunal Ghosh
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2020 - Feb 2020: Content Developer - Verilog Programming
+  * Technobyte 
+  * Developed content for a beginner level course in Verilog programming.
+Solid experience with tools required in RTL design.
+  * Manager: Mr. Syed Umair Hussaini
   
 Skills
 ======
@@ -41,24 +45,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+#Publications
+#======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
