@@ -26,10 +26,7 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "Masters student in SSIs"
   location         : "Norway"
-  employer         : "BME, Hungary"
-  employer         : "USN, Norway"
-  employer         : "Aalto University, Finland"
-  employer         : "IIITD&M, Kurnool"
+  employer         : "BME, Hungary | USN, Norway | Aalto University, Finland | IIITD&M, Kurnool"
   URI              : "https://ssi-master.eu/"
   email            : "ashutosh.1.sharma@aalto.fi" 
 
@@ -72,7 +69,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "@ashutoshsharma4769?si=olgddepey1LrPYjZ"
+  youtube          : # "@ashutoshsharma4769?si=olgddepey1LrPYjZ"
   zhihu            : # URL
 
 
